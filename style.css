@@ -1,0 +1,43 @@
+/*comentario*/
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);/*color del fondo*/
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;/*tipo de letra*/
+font-size: 17px;/*tamaño de letra*/
+}
+.caballo_blanco{
+    /* height-->para la altura de la foto*/
+    width: 195px;/*Ancho de la foto*/
+    border-radius: 200px;/*curva del borde de la imagen*/
+    opacity: 0.9;/*transparencia de la imagen*/
+    border: dotted;/*margen*/
+}
+.caballo_bonito{
+    height: 135px;
+    border-radius: 200px;
+    border: dotted;
+}
+.caballo_cafe{
+     /* height-->para la altura de la foto*/
+     width: 450px;/*Ancho de la foto*/
+     border-radius: 20px;/*curva del borde de la imagen*/
+     opacity: 0.8;
+     border: double;/*margen*/
+}
+h2{
+    text-align: center;/*alinea texto al centro*/
+}
+.datos{background-color: rgb(161, 98, 219);
+    background-image: url(https://journal.iaabcfoundation.org/wp-content/uploads/2022/01/Perrett.png);/*imagen de fondo*/
+    background-size: 460px;
+    font-size: 20px;
+    color: rgb(14, 15, 91);
+    background-color: rgba(0,0,0,0.1);
+}
+
+.imagenes{
+    text-align: center;/*alinea texto al centro*/
+}
+.imagen{
+    text-align: center;
+}
